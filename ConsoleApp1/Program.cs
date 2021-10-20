@@ -10,18 +10,24 @@ namespace ConsoleApp1
             int numGen = num.Next(0,3);
             int ratePerHr = 20;
             int empHr = 0;
-            if (numGen == 0)
+            switch (numGen)
             {
-                empHr = 8;
-            }
-            else if(numGen==1)
-                {
+                case 0:
+                    empHr = 8;
+                    break;
+                case 1:
                     empHr = 4;
-                }
-            else
-            {
-                empHr = 0;
+                    break;
+                default:
+                    empHr = 0;
+                    break;
+
+
+
             }
+                
+               
+
             int dailyWage = empHr * ratePerHr;
             Console.WriteLine("The daily wage of  emp is " + dailyWage);
         }

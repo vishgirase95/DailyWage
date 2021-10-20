@@ -50,7 +50,7 @@ namespace ConsoleApp1
             Console.WriteLine("Has Worked Full Time: "+FullTime+"   Has Worked Part Time: "+PartTime+  "  Was Absent this days: "+Absent);
 
             int MonthlyWage = ((FullTime*8)+(PartTime*4)+(Absent*0))*ratePerHr;
-            Console.WriteLine("The Monthly wage of month is  " + MonthlyWage);
+            Console.WriteLine("The Monthly wage of month is..  " + MonthlyWage);
         }
     }
 }

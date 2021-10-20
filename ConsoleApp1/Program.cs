@@ -8,14 +8,18 @@ namespace ConsoleApp1
         {
             Random num = new Random();
             int numGen = num.Next(0,2);
+            int ratePerHr = 20;
+            int empHr = 0;
             if (numGen == 1)
             {
-                Console.WriteLine("Emp is present");
+                empHr = 8;
             }
             else
             {
-                Console.WriteLine("Emp is absent");
+                empHr = 0;
             }
+            int dailyWage = empHr * ratePerHr;
+            Console.WriteLine("The daily wage of  emp is " + dailyWage);
         }
     }
 }

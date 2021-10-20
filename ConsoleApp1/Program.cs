@@ -7,13 +7,17 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Random num = new Random();
-            int numGen = num.Next(0,2);
+            int numGen = num.Next(0,3);
             int ratePerHr = 20;
             int empHr = 0;
-            if (numGen == 1)
+            if (numGen == 0)
             {
                 empHr = 8;
             }
+            else if(numGen==1)
+                {
+                    empHr = 4;
+                }
             else
             {
                 empHr = 0;

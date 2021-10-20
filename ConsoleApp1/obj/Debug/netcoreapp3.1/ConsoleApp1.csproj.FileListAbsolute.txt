@@ -1,0 +1,14 @@
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\bridgelabz\dailyWageProject\DailyWage\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

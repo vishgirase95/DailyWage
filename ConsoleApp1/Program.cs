@@ -19,7 +19,7 @@ namespace ConsoleApp1
                 empHr = 0;
             }
             int dailyWage = empHr * ratePerHr;
-            Console.WriteLine("The daily wage of  emp is Hello " + dailyWage);
+            Console.WriteLine("The daily wage of  emp is " + dailyWage);
         }
     }
 }
